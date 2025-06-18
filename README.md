@@ -1,4 +1,4 @@
-# Plantilla de servidor con capas con Express
+# Plantilla de servidor con capas Express
 
 Este proyecto es una plantilla básica para configurar un servidor con **Express** y **Nodemon**, ideal para iniciar rápidamente nuevos desarrollos en Node.js.
 
