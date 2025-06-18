@@ -1,8 +1,8 @@
 // services
 // import ... from '../models/user.model.js'
 
-const getUsers = () => {
+const getAll = () => {
   return;
 };
 
-export default { getUsers };
+export default { getAll };
